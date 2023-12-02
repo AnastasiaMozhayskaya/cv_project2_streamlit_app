@@ -6,7 +6,7 @@ from requests import get
 from io import BytesIO
 from torchvision import io
 
-from model.model_1 import predict_1
+# from model.model_1 import predict_1
 from model.model_2 import predict_2
 
 choice_model = None
