@@ -1,6 +1,6 @@
 # cv_project_streamlit_app
 
-## Чтобы воспользоваться нашим приложением, перейдите по ссылке [Streamlit](https://cvproject2appapp-mri5cmggebnp6kqmftuziw.streamlit.app)
+## Чтобы воспользоваться нашим приложением, перейдите по ссылке [Streamlit](https://computervision-yolo.streamlit.app)
 
 ### Команда: [Роман](https://github.com/r-makushkin), [Руслан](https://github.com/ruslan-DS), Анастасия
 
