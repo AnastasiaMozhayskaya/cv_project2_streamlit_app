@@ -1,5 +1,4 @@
 from ultralytics import YOLO
-import cv2
 from model.preprocessing import make_transform
 
 yolo8_model = YOLO('weights/yolo8n_186epochs.pt')
