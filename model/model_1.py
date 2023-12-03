@@ -1,4 +1,5 @@
 import torch
+import cv2
 from model.preprocessing import make_transform
 
 # model = torch.hub.load('ultralytics/yolov5', 'custom', path='weights/bestweights_yolov5l.pt', force_reload=True)
