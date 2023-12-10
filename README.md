@@ -1,6 +1,6 @@
 # cv_project_streamlit_app
 
-Computer Vision Project
+# Computer Vision Project
 
 ## Чтобы воспользоваться нашим приложением, перейдите по ссылке [Streamlit](https://computervision-yolo.streamlit.app)
 
